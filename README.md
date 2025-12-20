@@ -12,4 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1667-fix-names-in-a-table) |
+## Array
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
