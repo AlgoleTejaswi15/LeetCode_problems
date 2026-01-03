@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
