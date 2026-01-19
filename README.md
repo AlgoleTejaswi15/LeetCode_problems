@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1929-concatenation-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -45,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
