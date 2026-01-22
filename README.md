@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1929-concatenation-of-array) |
+| [3467-transform-array-by-parity](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3467-transform-array-by-parity](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3467-transform-array-by-parity](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
