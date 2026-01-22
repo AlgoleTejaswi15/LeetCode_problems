@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1929-concatenation-of-array) |
 | [3467-transform-array-by-parity](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/3467-transform-array-by-parity) |
+| [3701-compute-alternating-sum](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1929-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
