@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0577-employee-bonus) |
+| [1174-immediate-food-delivery-ii](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1280-students-and-examinations) |
 | [1484-group-sold-products-by-the-date](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1484-group-sold-products-by-the-date) |
