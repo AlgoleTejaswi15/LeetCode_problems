@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
