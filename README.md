@@ -70,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0125-valid-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
