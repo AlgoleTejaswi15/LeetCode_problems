@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1512-number-of-good-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/AlgoleTejaswi15/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
